@@ -1,2 +1,2 @@
-# Web-Applications
-Web Appliaction Using Tailwind css
+# WEB PROJECT
+Web Project using HTML, css, and little bit Java Script
